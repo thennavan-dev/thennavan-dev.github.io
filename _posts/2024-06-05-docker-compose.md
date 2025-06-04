@@ -4,7 +4,7 @@ date : 2024-06-05
 categories : ["Docker"]
 tags : ["Docker","Docker_Compose"]
 image:
-        path: assets/lib/Docker/docker-compose.png
+        path: assets/images/Docker/docker-compose.png
 ---
 
 Docker Compose is a tool for defining and running multi-container Docker applications. It allows you to define a multi-container setup in a simple YAML file (`docker-compose.yml`) and manage the entire lifecycle of the application, including building, starting, stopping, and scaling the services.

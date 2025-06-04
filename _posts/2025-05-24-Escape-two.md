@@ -4,7 +4,7 @@ date : 2025-05-24
 categories : ["HTB"]
 tags : ["HTB","escape_two"]
 image:
-        path: assets/lib/HTB/escape-two.png
+        path: assets/images/HTB/escape-two.png
 ---
 
 
