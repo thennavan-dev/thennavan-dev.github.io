@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-# THENNAVAN — Software Developer
+# About
 
-Tiruppur, Tamil Nadu, India · +91 9894660716 · thennavan.dev@gmail.com
+Location removed · Contact removed
 
 I'm an Information Technology graduate and full‑stack developer with a strong interest in cybersecurity and ethical hacking. I build practical, secure web and backend systems using TypeScript, Node.js, React, Docker, and Nginx — and I enjoy taking projects from prototype to production.
 
@@ -48,8 +48,4 @@ Python · JavaScript / TypeScript · React · Node.js · MongoDB · SQL · Docke
 
 ### Connect
 
-Email: thennavan.dev@gmail.com
-
-GitHub: https://github.com/thennavan-dev
-
-If you'd like to work together — or want a copy of my CV tailored for a role — send a quick message and I'll reply soon.
+Contact details removed. For collaborations or enquiries, please use the website contact form or replace this section with your preferred public contact method.

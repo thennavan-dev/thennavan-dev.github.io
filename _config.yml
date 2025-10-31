@@ -14,31 +14,29 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Thennavan # the main title
+title: Personal Site
 
-tagline: Cybersecurity Notes & Writeups # it will display as the subtitle
+tagline: Notes & Projects
 
-description: >- # used by seo meta and the atom feed
-  Cybersecurity notes, walkthroughs, and research logs by Thennavan. Covering HTB, THM, OSCP, and more.
+description: >-
+  Notes, writeups, and projects. Topics include web development, cybersecurity, and tooling.
 
-# Fill in the protocol & hostname for your site.
-# E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://thennavan-dev.github.io/"
+# Fill in the protocol & hostname for your site (optional).
+# Example: 'https://username.github.io' (no trailing slash). Leave empty if not publishing yet.
+url: ""
 
 github:
-  username: thennavan-dev # change to your GitHub username
+  username: your-github-username # replace with your GitHub username if you wish
 
 twitter:
-  username: thennavan_dev # change to your Twitter username
+  username: your-twitter-username # replace with your Twitter username if you wish
 
 social:
-  # Change to your full name.
-  # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Thennavan
-  email: thennavan.dev@proton.me # change to your email address
+  # Default author display name (generic)
+  name: Author
+  email: you@example.com # replace with a public contact email if desired
   links:
-    # The first element serves as the copyright owner's link
-    - https://github.com/thennavan-dev # change to your Twitter homepage
+    - https://github.com/your-github-username
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -98,7 +96,6 @@ cdn:
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "/assets/profile/cat.jpg"
-
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
