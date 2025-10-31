@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About (duplicate)
+permalink: /about-page/
+published: false
 ---
 
 # About
